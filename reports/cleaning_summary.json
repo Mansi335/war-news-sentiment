@@ -1,0 +1,37 @@
+{
+  "raw_rows": 144410,
+  "other_sites_removed": 476,
+  "duplicate_texts_removed": 1103,
+  "short_texts_removed": 1434,
+  "english_articles_removed": 361,
+  "missing_dates_by_source": {
+    "Der Spiegel": 27948,
+    "Süddeutsche Zeitung": 20279,
+    "Bild": 136
+  },
+  "date_recovery": {
+    "Süddeutsche Zeitung": {
+      "recovered": 20226,
+      "validation_articles": 3011,
+      "median_error_hours": 3.83,
+      "p90_error_hours": 292.26,
+      "share_within_1_day": 0.7459
+    }
+  },
+  "outside_period_removed": 14802,
+  "clean_rows": 126228,
+  "war_related": 18093,
+  "by_source": {
+    "Süddeutsche Zeitung": 40159,
+    "Bild": 37431,
+    "Der Spiegel": 27948,
+    "Die Welt": 20690
+  },
+  "war_by_source": {
+    "Der Spiegel": 5904,
+    "Süddeutsche Zeitung": 4392,
+    "Die Welt": 4225,
+    "Bild": 3572
+  },
+  "dated_rows": 98091
+}

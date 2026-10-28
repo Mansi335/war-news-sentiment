@@ -1,0 +1,11 @@
+{
+  "model": "oliverguhr/german-sentiment-bert",
+  "device": "mps",
+  "headlines": 126228,
+  "headline_minutes": 5.82,
+  "headlines_per_second": 361.3,
+  "text_sample": 600,
+  "text_minutes": 0.86,
+  "agreement_with_dataset_titles": 1.0,
+  "agreement_with_dataset_texts": 0.8667
+}

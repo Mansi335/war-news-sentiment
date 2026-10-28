@@ -1,0 +1,372 @@
+{
+  "war_share_first_last_month": {
+    "Bild": [
+      23.5,
+      4.1
+    ],
+    "Die Welt": [
+      56.9,
+      13.9
+    ],
+    "Süddeutsche Zeitung": [
+      8.5,
+      6.4
+    ]
+  },
+  "war_headline_sentiment_pct": {
+    "Süddeutsche Zeitung": {
+      "negative": 13.4,
+      "neutral": 76.5,
+      "positive": 10.1
+    },
+    "Bild": {
+      "negative": 17.2,
+      "neutral": 82.3,
+      "positive": 0.5
+    },
+    "Der Spiegel": {
+      "negative": 10.8,
+      "neutral": 88.8,
+      "positive": 0.4
+    },
+    "Die Welt": {
+      "negative": 11.8,
+      "neutral": 87.8,
+      "positive": 0.4
+    }
+  },
+  "chi_square_outlets": {
+    "chi2": 1248.4,
+    "dof": 6,
+    "p_value": 1.6031785428877175e-266,
+    "cramers_v": 0.186
+  },
+  "monthly_negative_pct": {
+    "2022-02": {
+      "Bild": 19.8,
+      "Die Welt": 13.2,
+      "Süddeutsche Zeitung": 16.7
+    },
+    "2022-03": {
+      "Bild": 17.5,
+      "Die Welt": 14.8,
+      "Süddeutsche Zeitung": 14.0
+    },
+    "2022-04": {
+      "Bild": 16.6,
+      "Die Welt": 11.8,
+      "Süddeutsche Zeitung": 15.9
+    },
+    "2022-05": {
+      "Bild": 14.2,
+      "Die Welt": 6.4,
+      "Süddeutsche Zeitung": 12.1
+    },
+    "2022-06": {
+      "Bild": 16.5,
+      "Die Welt": 8.7,
+      "Süddeutsche Zeitung": 11.0
+    },
+    "2022-07": {
+      "Bild": 17.7,
+      "Die Welt": 11.0,
+      "Süddeutsche Zeitung": 11.8
+    },
+    "2022-08": {
+      "Bild": 24.4,
+      "Die Welt": 16.0,
+      "Süddeutsche Zeitung": 14.0
+    },
+    "2022-09": {
+      "Bild": 13.8,
+      "Die Welt": 17.1,
+      "Süddeutsche Zeitung": 13.0
+    },
+    "2022-10": {
+      "Bild": NaN,
+      "Die Welt": 11.5,
+      "Süddeutsche Zeitung": 13.3
+    },
+    "2022-11": {
+      "Bild": NaN,
+      "Die Welt": 10.8,
+      "Süddeutsche Zeitung": 11.2
+    },
+    "2022-12": {
+      "Bild": NaN,
+      "Die Welt": 10.1,
+      "Süddeutsche Zeitung": 11.5
+    },
+    "2023-01": {
+      "Bild": NaN,
+      "Die Welt": 8.3,
+      "Süddeutsche Zeitung": 20.8
+    },
+    "2023-02": {
+      "Bild": NaN,
+      "Die Welt": 10.3,
+      "Süddeutsche Zeitung": 5.6
+    }
+  },
+  "negative_pct_war_vs_other": {
+    "Süddeutsche Zeitung": {
+      "Other news": 13.8,
+      "War": 13.4
+    },
+    "Bild": {
+      "Other news": 14.2,
+      "War": 17.2
+    },
+    "Der Spiegel": {
+      "Other news": 9.9,
+      "War": 10.8
+    },
+    "Die Welt": {
+      "Other news": 10.8,
+      "War": 11.8
+    }
+  },
+  "headline_text_agreement": 0.779,
+  "headline_vs_text_pct": {
+    "negative": {
+      "negative": 19.3,
+      "neutral": 80.1,
+      "positive": 0.6
+    },
+    "neutral": {
+      "negative": 10.1,
+      "neutral": 89.4,
+      "positive": 0.5
+    },
+    "positive": {
+      "negative": 18.8,
+      "neutral": 80.6,
+      "positive": 0.6
+    }
+  },
+  "mean_confidence": {
+    "negative": 0.908,
+    "neutral": 0.986,
+    "positive": 0.772
+  },
+  "low_confidence_share": 0.0174,
+  "negative_headline_words": {
+    "Süddeutsche Zeitung": [
+      [
+        "münchen",
+        19
+      ],
+      [
+        "gas",
+        11
+      ],
+      [
+        "krieg",
+        10
+      ],
+      [
+        "deutschland",
+        10
+      ],
+      [
+        "scholz",
+        10
+      ],
+      [
+        "euro",
+        10
+      ],
+      [
+        "hilfe",
+        10
+      ],
+      [
+        "geld",
+        9
+      ],
+      [
+        "dachau",
+        8
+      ],
+      [
+        "stoppt",
+        7
+      ],
+      [
+        "warum",
+        7
+      ],
+      [
+        "usa",
+        7
+      ]
+    ],
+    "Bild": [
+      [
+        "krieg",
+        42
+      ],
+      [
+        "scholz",
+        19
+      ],
+      [
+        "deutschland",
+        18
+      ],
+      [
+        "habeck",
+        14
+      ],
+      [
+        "usa",
+        12
+      ],
+      [
+        "nord",
+        10
+      ],
+      [
+        "stream",
+        9
+      ],
+      [
+        "stoppt",
+        9
+      ],
+      [
+        "raus",
+        9
+      ],
+      [
+        "droht",
+        9
+      ],
+      [
+        "grüne",
+        9
+      ],
+      [
+        "china",
+        8
+      ]
+    ],
+    "Der Spiegel": [
+      [
+        "krieg",
+        47
+      ],
+      [
+        "deutschland",
+        26
+      ],
+      [
+        "usa",
+        21
+      ],
+      [
+        "deutsche",
+        19
+      ],
+      [
+        "tages",
+        17
+      ],
+      [
+        "scholz",
+        16
+      ],
+      [
+        "gas",
+        13
+      ],
+      [
+        "warum",
+        12
+      ],
+      [
+        "grüne",
+        10
+      ],
+      [
+        "spd",
+        9
+      ],
+      [
+        "soldaten",
+        9
+      ],
+      [
+        "propaganda",
+        9
+      ]
+    ],
+    "Die Welt": [
+      [
+        "deutschland",
+        33
+      ],
+      [
+        "scholz",
+        17
+      ],
+      [
+        "krieg",
+        14
+      ],
+      [
+        "propaganda",
+        11
+      ],
+      [
+        "gas",
+        11
+      ],
+      [
+        "deutsche",
+        10
+      ],
+      [
+        "usa",
+        10
+      ],
+      [
+        "kritik",
+        10
+      ],
+      [
+        "spd",
+        10
+      ],
+      [
+        "kritisiert",
+        9
+      ],
+      [
+        "hart",
+        9
+      ],
+      [
+        "warum",
+        9
+      ]
+    ]
+  },
+  "validation_text_agreement": 0.8667,
+  "counts": {
+    "articles": 126228,
+    "war_articles": 18093,
+    "war_articles_dated": 12144,
+    "war_by_source": {
+      "Der Spiegel": 5904,
+      "Süddeutsche Zeitung": 4392,
+      "Die Welt": 4225,
+      "Bild": 3572
+    },
+    "headline_sentiment_all_war": {
+      "neutral": 15255,
+      "negative": 2338,
+      "positive": 500
+    }
+  }
+}
